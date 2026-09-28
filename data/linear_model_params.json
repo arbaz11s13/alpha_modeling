@@ -1,0 +1,9 @@
+{
+    "ridge": {
+        "alpha": 300000.0
+    },
+    "elastic_net": {
+        "alpha": 3e-05,
+        "l1_ratio": 0.9
+    }
+}
